@@ -1,0 +1,14 @@
+.DS_Store
+node_modules/
+dist/
+coverage/
+*.log
+*.tmp
+*.bak
+*.swp
+.idea/
+.vscode/
+*.env
+*.config.js
+*.test.js
+*.spec.js
