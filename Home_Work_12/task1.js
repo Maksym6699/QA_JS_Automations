@@ -1,3 +1,4 @@
 console.log('Hello, World!');
 // Test comment
-var x = 1;
+const x = 1; console.log(x);
+// Another comment
