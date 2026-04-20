@@ -1,1 +1,1 @@
-//Встановіть та налаштуйте prettier та eslint у своєму проекті з домашками
+console.log('Hello, World!');
