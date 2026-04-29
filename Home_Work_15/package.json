@@ -1,0 +1,28 @@
+{
+  "name": "homework-15",
+  "version": "1.0.0",
+  "description": "Axios and Jest testing homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage",
+    "test:task1": "jest task1.test.js",
+    "test:task2": "jest task2.test.js",
+    "test:task3": "jest task3.test.js"
+  },
+  "keywords": [
+    "axios",
+    "jest",
+    "testing",
+    "mocking"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
